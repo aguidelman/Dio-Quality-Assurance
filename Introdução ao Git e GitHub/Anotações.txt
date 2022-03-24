@@ -1,0 +1,2 @@
+Link para configuração MD.
+https://www.markdownguide.org/
